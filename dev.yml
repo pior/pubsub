@@ -1,0 +1,5 @@
+
+up:
+  - go:
+      version: "1.12"
+      modules: true
